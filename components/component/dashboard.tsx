@@ -42,11 +42,11 @@ export function Dashboard() {
                 <CardHeader>
                   <CardTitle>Legal Services</CardTitle>
                   <CardDescription>
-                    Access a variety of legal financial services to prevent scams.
+                    Access a variety of legal financial resources to prevent scams.
                   </CardDescription>
                 </CardHeader>
                 <CardContent>
-                  <ExternalLink href="https://www.smartnation.gov.sg/initiatives/digital-government-services/">
+                  <ExternalLink href="https://www.scamalert.sg/">
                     <Button className="bg-white text-black">Learn More</Button>
                   </ExternalLink>
                 </CardContent>
