@@ -18,15 +18,12 @@ export function Dashboard() {
         <main className="flex flex-1 flex-col gap-4 p-4 md:gap-8 md:p-6">
           <div className="grid gap-4 md:gap-8">
             <div className="flex items-center gap-4 md:gap-8">
-              <h1 className="text-2xl font-semibold">Welcome to Gov Analysis</h1>
+              <h1 className="text-2xl font-semibold">Welcome to Fraud Buster</h1>
             </div>
             <div className="grid gap-4 md:gap-8">
               <p className="text-gray-500 text-sm  dark:text-gray-400 font-light">
-                Gov Analysis is the go-to platform for businesses to access government services and support. It provides a
-                range of resources and tools to help your SMEs grow and thrive, and guides users through the end-to-end process of setting up a business in Singapore
-
-                anticipating and matching users’ business needs with
-                relevant government services and support schemes, etc.
+                We are here to prevent you from falling into financial fraud and traps for businesses  and individuals alike. 
+                We provide public awareness of scams, strengthening current anti-scam strategies, and improving the legal community's ability to protect the public and businesses from fraud.
               </p>
             </div>
             <div className="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -34,7 +31,7 @@ export function Dashboard() {
                 <CardHeader>
                   <CardTitle>My Assessment</CardTitle>
                   <CardDescription>
-                    Complete the assessment to get personalized recommendations for your business.
+                    Complete the assessment to get personalized recommendations for how you can insure yourself from fraud.
                   </CardDescription>
                 </CardHeader>
                 <CardContent>
@@ -43,9 +40,9 @@ export function Dashboard() {
               </Card>
               <Card className="bg-[#333333] text-white">
                 <CardHeader>
-                  <CardTitle>Government Services</CardTitle>
+                  <CardTitle>Legal Services</CardTitle>
                   <CardDescription>
-                    Access a variety of services offered by the government to support your business.
+                    Access a variety of legal financial services to prevent scams.
                   </CardDescription>
                 </CardHeader>
                 <CardContent>
@@ -58,7 +55,7 @@ export function Dashboard() {
                 <CardHeader>
                   <CardTitle>Resource Center</CardTitle>
                   <CardDescription>
-                    Find articles, tools, and guides to help you navigate through business challenges.
+                    Find articles, tools, and guides to help you navigate through financial challenges.
                   </CardDescription>
                 </CardHeader>
                 <CardContent>
