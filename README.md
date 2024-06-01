@@ -1,5 +1,5 @@
 <a href="https://hackomania-govtech.vercel.app/">
-  <img alt="GovernAnalysis GPT" src="docs/Home.png">
+  <img alt="Fraud Buster" src="docs/Home.png">
   <h1 align="center">Fraud Buster</h1>
 </a>
 
@@ -31,7 +31,7 @@
 ## Our Architecture
 
 <a href="https://hackomania-govtech.vercel.app/">
-  <img alt="GovernAnalysis GPT" src="docs/Model.png">
+  <img alt="Fraud Buster" src="docs/Model.png">
   <h1 align="center">Application Design</h1>
 </a>
 
@@ -51,13 +51,13 @@ This product can:
 ## Chat Page
 
 <a href="https://hackomania-govtech.vercel.app/">
-  <img alt="GovernAnalysis GPT" src="docs/Chat.png">
+  <img alt="Fraud Buster" src="docs/Chat.png">
 </a>
 
 Here is an example of the chat page. The chat page is designed to be simple and easy to use. The chatbot will provide information on government policies and regulations based on the user's input.
 
 <a href="https://hackomania-govtech.vercel.app/">
-  <img alt="GovernAnalysis GPT" src="docs/Example.png">
+  <img alt="Fraud Buster" src="docs/Example.png">
 </a>
 
 ## Other Authors
