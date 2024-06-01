@@ -1,10 +1,10 @@
 <a href="https://hackomania-govtech.vercel.app/">
   <img alt="GovernAnalysis GPT" src="docs/Home.png">
-  <h1 align="center">GovernAnalysis</h1>
+  <h1 align="center">Fraud Buster</h1>
 </a>
 
 <p align="center">
-  An open-source AI chatbot app template built with Next.js, the Vercel AI SDK, OpenAI, and Vercel KV. This chatbot utilises RAG and vector database to provide information on government policies and regulations.
+  An open-source AI chatbot app template built with Next.js, the Vercel AI SDK, OpenAI, and Vercel KV. This chatbot utilises RAG and vector database to educate the public and businesses from fraud.
 </p>
 
 <p align="center">
@@ -35,18 +35,18 @@
   <h1 align="center">Application Design</h1>
 </a>
 
-This project make use of LLM with LangChain to provide information on government policies and regulations. It also uses Retrieval Augmented Generation (RAG) and vector database from Supabase instance to reduce the search space for the LLM model and provide more accurate results.
+This project make use of LLM with LangChain to provide information on fraud prevention. It also uses Retrieval Augmented Generation (RAG) and vector database from Supabase instance to reduce the search space for the LLM model and provide more accurate results.
 
 ## Our motivation
 
-Starting a business is difficult enough, the huge suite of government programs is also not easy to navigate. How can we make a simple-to-use, intelligent G2B digital system that brings businesses closer to government support? 
+The inspiration for FraudGuard AI stemmed from witnessing the detrimental impact of scams on the financial well-being of victims. Our goal was to develop an AI-driven solution that educates and empowers users to safeguard their finances.
 
 ## Why this product
 
 This product can:
-- Understand the needs and concerns of the business
-- Classify the needs and concerns of the business
-- Serve targeted programs and schemes that businesses will benefit from
+- Raise public awareness of scams
+- Strengthen current awareness of anti-scam strategies
+- Improve the legal community's ability to protect the public and businesses from fraud
 
 ## Chat Page
 
