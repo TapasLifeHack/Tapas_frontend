@@ -38,22 +38,22 @@ export function ChatPanel({
     {
       heading: 'What are the',
       subheading: 'financial services available that are not fraudulant?',
-      message: `What are the productivity grants available for businesses looking to expand?`
+      message: `What are the financial services available that are not fraudulant?`
     },
     {
       heading: 'How do I ',
       subheading: 'go about digitalising my businesses without falling for scams?',
-      message: 'How do I go about digitalising my businesses?'
+      message: 'How do I go about digitalising my businesses without falling for scams?'
     },
     {
       heading: 'I would like to',
       subheading: 'find jobs without falling for job scams?',
-      message: `I would like to be part of the Job Growth Initiative. How do I apply?`
+      message: `I would like to find jobs without falling for job scams?`
     },
     {
       heading: 'What are some',
       subheading: `ways I can receive fundings legally and safely`,
-      message: `What are some ways I can receive some government grants for my start-up?`
+      message: `What are some ways I can receive fundings legally and safely?`
     }
   ]
 
