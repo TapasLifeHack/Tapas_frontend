@@ -12,10 +12,10 @@ import { SidebarNew } from '@/components/component/sidebar'
 export const metadata = {
   metadataBase: new URL(`https://${process.env.VERCEL_URL}`),
   title: {
-    default: 'Govern Analysis Chatbot',
-    template: `Govern Analysis Chatbot`
+    default: 'Fraud Buster Chatbot',
+    template: `Fraud Buster Chatbot`
   },
-  description: 'GovAnalysis is a Langchain-enabled RAG chatbot that helps you find government support opportunities for your business.',
+  description: 'Fraud Buster is a Langchain-enabled RAG chatbot that helps you find more information about legal support against scams.',
   icons: {
     icon: '/favicon.ico',
     shortcut: '/favicon-16x16.png',
